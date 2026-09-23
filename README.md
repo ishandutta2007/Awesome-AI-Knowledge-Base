@@ -268,7 +268,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 1. Complete AI Knowledge Base Platforms
 
-| Project | Stars | Category & Focus | Key Capabilities | Repository |
+| Project | GitHub_Stars | Category & Focus | Key Capabilities | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **Onyx (Danswer)** | <a href="https://github.com/onyx-dot-app/onyx/stargazers"><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white" alt="Stars"/></a> | Enterprise AI Search | Permission-aware search, RAG, 30+ connectors, AI assistants, MCP | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) |
 | **DocsGPT** | <a href="https://github.com/arc53/DocsGPT/stargazers"><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white" alt="Stars"/></a> | Document AI Platform | Document chat, RAG, agent builder, deep research, multi-model support | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) |
@@ -285,7 +285,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 2. Enterprise Search & Internal Knowledge Engines
 
-| Project | Stars | Primary Role | Key Capabilities | Repository |
+| Project | GitHub_Stars | Primary Role | Key Capabilities | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **OpenSearch** | <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a> | Enterprise Hybrid Search | BM25 keyword search, vector search, neural search, access control | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) |
 | **Vespa** | <a href="https://github.com/vespa-engine/vespa/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a> | AI Retrieval Engine | Large-scale vector/text search, real-time ranking, hybrid retrieval | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) |
@@ -297,7 +297,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 3. RAG Frameworks & Orchestration
 
-| Project | Stars | Primary Role | Knowledge Base Role | Repository |
+| Project | GitHub_Stars | Primary Role | Knowledge Base Role | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **LangChain** | <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="Stars"/></a> | LLM Orchestration | RAG pipelines, agents, document loaders, vector store abstractions | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) |
 | **LlamaIndex** | <a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="Stars"/></a> | Data / RAG Framework | Document indexing, RAG workflows, knowledge graphs, agentic retrieval | [run-llama/llama_index](https://github.com/run-llama/llama_index) |
@@ -309,7 +309,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 4. Vector Databases
 
-| Database | Stars | Architecture | Key Capabilities | Repository |
+| Database | GitHub_Stars | Architecture | Key Capabilities | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **Qdrant** | <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="Stars"/></a> | Rust Vector DB | Vector search, payload filtering, quantization, multi-tenancy | [qdrant/qdrant](https://github.com/qdrant/qdrant) |
 | **Milvus** | <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="Stars"/></a> | Distributed Vector DB | High-throughput ANN search, hybrid search, billion-scale embeddings | [milvus-io/milvus](https://github.com/milvus-io/milvus) |
@@ -322,7 +322,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 5. Document Intelligence & Ingestion
 
-| Tool | Stars | Focus Area | Key Capabilities | Repository |
+| Tool | GitHub_Stars | Focus Area | Key Capabilities | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **Docling** | <a href="https://github.com/docling-project/docling/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=social&color=white" alt="Stars"/></a> | Layout & Table Parsing | PDF conversion, layout understanding, table extraction, OCR | [docling-project/docling](https://github.com/docling-project/docling) |
 | **MinerU** | <a href="https://github.com/opendatalab/MinerU/stargazers"><img src="https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white" alt="Stars"/></a> | Document Extraction | PDF parsing, formula/table recognition, layout understanding | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) |
@@ -335,7 +335,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 6. Knowledge Graphs & GraphRAG
 
-| Engine | Stars | Category | Key Capabilities | Repository |
+| Engine | GitHub_Stars | Category | Key Capabilities | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **Microsoft GraphRAG** | <a href="https://github.com/microsoft/graphrag/stargazers"><img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white" alt="Stars"/></a> | Knowledge Graph RAG | LLM-generated knowledge graphs, community summaries, global search | [microsoft/graphrag](https://github.com/microsoft/graphrag) |
 | **Neo4j** | <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="Stars"/></a> | Graph Database | Entity relationships, Cypher query language, GraphRAG integrations | [neo4j/neo4j](https://github.com/neo4j/neo4j) |
@@ -347,7 +347,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 7. LLM Serving & Local Inference
 
-| Engine | Stars | Deployment Target | Key Capabilities | Repository |
+| Engine | GitHub_Stars | Deployment Target | Key Capabilities | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **Ollama** | <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Stars"/></a> | Local Workstation / Server | One-command LLM serving, local embeddings, OpenAI API compatibility | [ollama/ollama](https://github.com/ollama/ollama) |
 | **llama.cpp** | <a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="Stars"/></a> | CPU / GPU Edge Inference | Minimal GGUF model execution, Apple Silicon optimization | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) |
@@ -358,7 +358,7 @@ AnythingLLM provides a local/self-hostable AI application with document RAG, age
 
 ## 8. Evaluation, Observability & Data Pipelines
 
-| Project | Stars | Subsystem | Key Capabilities | Repository |
+| Project | GitHub_Stars | Subsystem | Key Capabilities | Repository |
 | :--- | :---: | :--- | :--- | :--- |
 | **Ragas** | <a href="https://github.com/explodinggradients/ragas/stargazers"><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="Stars"/></a> | RAG Evaluation | Faithfulness, context recall, answer relevance metrics | [explodinggradients/ragas](https://github.com/explodinggradients/ragas) |
 | **DeepEval** | <a href="https://github.com/confident-ai/deepeval/stargazers"><img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="Stars"/></a> | LLM / Agent Testing | Unit testing & regression framework for RAG and LLM applications | [confident-ai/deepeval](https://github.com/confident-ai/deepeval) |
