@@ -288,7 +288,7 @@ These are the most relevant open-source projects when the objective is to build 
 
 
 
-**Repository:** https://github.com/onyx-dot-app/onyx <a href="https://github.com/onyx-dot-app/onyx <a href="https://github.com/onyx-dot-app/onyx/stargazers"><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/onyx-dot-app/onyx <a href="https://github.com/onyx-dot-app/onyx/stargazers"><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -370,7 +370,7 @@ Onyx is particularly relevant because it combines enterprise search, connectors,
 
 
 
-**Repository:** https://github.com/arc53/DocsGPT <a href="https://github.com/arc53/DocsGPT <a href="https://github.com/arc53/DocsGPT/stargazers"><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/arc53/DocsGPT <a href="https://github.com/arc53/DocsGPT/stargazers"><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -410,7 +410,7 @@ DocsGPT is MIT licensed.
 
 
 
-**Repository:** https://github.com/QuivrHQ/quivr <a href="https://github.com/QuivrHQ/quivr <a href="https://github.com/QuivrHQ/quivr/stargazers"><img src="https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/QuivrHQ/quivr <a href="https://github.com/QuivrHQ/quivr/stargazers"><img src="https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -448,7 +448,7 @@ Quivr also develops **Megaparse** for document ingestion and **Le Juge** for RAG
 
 
 
-**Repository:** https://github.com/Mintplex-Labs/anything-llm <a href="https://github.com/Mintplex-Labs/anything-llm <a href="https://github.com/Mintplex-Labs/anything-llm/stargazers"><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/Mintplex-Labs/anything-llm <a href="https://github.com/Mintplex-Labs/anything-llm/stargazers"><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -490,7 +490,7 @@ AnythingLLM supports both open and commercial LLM providers and multiple vector 
 
 
 
-**Repository:** https://github.com/infiniflow/ragflow <a href="https://github.com/infiniflow/ragflow <a href="https://github.com/infiniflow/ragflow/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/infiniflow/ragflow <a href="https://github.com/infiniflow/ragflow/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -530,7 +530,7 @@ RAGFlow positions itself as an open-source RAG engine based on deep document und
 
 
 
-**Repository:** https://github.com/open-webui/open-webui <a href="https://github.com/open-webui/open-webui <a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/open-webui/open-webui <a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -570,7 +570,7 @@ Open WebUI's Knowledge functionality uses retrieval to search document collectio
 
 
 
-**Repository:** https://github.com/khoj-ai/khoj <a href="https://github.com/khoj-ai/khoj <a href="https://github.com/khoj-ai/khoj/stargazers"><img src="https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/khoj-ai/khoj <a href="https://github.com/khoj-ai/khoj/stargazers"><img src="https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -612,7 +612,7 @@ Khoj explicitly supports answers from both the web and personal documents and is
 
 
 
-**Repository:** https://github.com/langgenius/dify <a href="https://github.com/langgenius/dify <a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/langgenius/dify <a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -648,7 +648,7 @@ Khoj explicitly supports answers from both the web and personal documents and is
 
 
 
-**Repository:** https://github.com/labring/FastGPT <a href="https://github.com/labring/FastGPT <a href="https://github.com/labring/FastGPT/stargazers"><img src="https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/labring/FastGPT <a href="https://github.com/labring/FastGPT/stargazers"><img src="https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -680,7 +680,7 @@ Khoj explicitly supports answers from both the web and personal documents and is
 
 
 
-**Repository:** https://github.com/1Panel-dev/MaxKB <a href="https://github.com/1Panel-dev/MaxKB <a href="https://github.com/1Panel-dev/MaxKB/stargazers"><img src="https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=social&color=white" alt="Stars"/></a>
+**Repository:** https://github.com/1Panel-dev/MaxKB <a href="https://github.com/1Panel-dev/MaxKB/stargazers"><img src="https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -714,7 +714,7 @@ Khoj explicitly supports answers from both the web and personal documents and is
 
 
 
-https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>
+https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -742,7 +742,7 @@ https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/v
 
 
 
-https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>
+https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -770,7 +770,7 @@ https://github.com/opensearch-project/OpenSearch <a href="https://github.com/ope
 
 
 
-https://github.com/apache/solr <a href="https://github.com/apache/solr <a href="https://github.com/apache/solr/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>
+https://github.com/apache/solr <a href="https://github.com/apache/solr/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -796,7 +796,7 @@ https://github.com/apache/solr <a href="https://github.com/apache/solr <a href="
 
 
 
-https://github.com/meilisearch/meilisearch <a href="https://github.com/meilisearch/meilisearch <a href="https://github.com/meilisearch/meilisearch/stargazers"><img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white" alt="Stars"/></a>
+https://github.com/meilisearch/meilisearch <a href="https://github.com/meilisearch/meilisearch/stargazers"><img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -820,7 +820,7 @@ https://github.com/meilisearch/meilisearch <a href="https://github.com/meilisear
 
 
 
-https://github.com/typesense/typesense <a href="https://github.com/typesense/typesense <a href="https://github.com/typesense/typesense/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=social&color=white" alt="Stars"/></a>
+https://github.com/typesense/typesense <a href="https://github.com/typesense/typesense/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -850,7 +850,7 @@ https://github.com/typesense/typesense <a href="https://github.com/typesense/typ
 
 
 
-https://github.com/langchain-ai/langchain <a href="https://github.com/langchain-ai/langchain <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="Stars"/></a>
+https://github.com/langchain-ai/langchain <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -878,7 +878,7 @@ https://github.com/langchain-ai/langchain <a href="https://github.com/langchain-
 
 
 
-https://github.com/run-llama/llama_index <a href="https://github.com/run-llama/llama_index <a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="Stars"/></a>
+https://github.com/run-llama/llama_index <a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -910,7 +910,7 @@ LlamaIndex remains an open toolkit for building RAG and agent applications, alth
 
 
 
-https://github.com/deepset-ai/haystack <a href="https://github.com/deepset-ai/haystack <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="Stars"/></a>
+https://github.com/deepset-ai/haystack <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -942,7 +942,7 @@ Haystack describes itself as an open-source AI orchestration framework for produ
 
 
 
-https://github.com/stanfordnlp/dspy <a href="https://github.com/stanfordnlp/dspy <a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="Stars"/></a>
+https://github.com/stanfordnlp/dspy <a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -966,7 +966,7 @@ https://github.com/stanfordnlp/dspy <a href="https://github.com/stanfordnlp/dspy
 
 
 
-https://github.com/neuml/txtai <a href="https://github.com/neuml/txtai <a href="https://github.com/neuml/txtai/stargazers"><img src="https://img.shields.io/github/stars/neuml/txtai?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/neuml/txtai?style=social&color=white" alt="Stars"/></a>
+https://github.com/neuml/txtai <a href="https://github.com/neuml/txtai/stargazers"><img src="https://img.shields.io/github/stars/neuml/txtai?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -996,7 +996,7 @@ https://github.com/neuml/txtai <a href="https://github.com/neuml/txtai <a href="
 
 
 
-https://github.com/docling-project/docling <a href="https://github.com/docling-project/docling <a href="https://github.com/docling-project/docling/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=social&color=white" alt="Stars"/></a>
+https://github.com/docling-project/docling <a href="https://github.com/docling-project/docling/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1022,7 +1022,7 @@ https://github.com/docling-project/docling <a href="https://github.com/docling-p
 
 
 
-https://github.com/apache/tika <a href="https://github.com/apache/tika <a href="https://github.com/apache/tika/stargazers"><img src="https://img.shields.io/github/stars/apache/tika?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/apache/tika?style=social&color=white" alt="Stars"/></a>
+https://github.com/apache/tika <a href="https://github.com/apache/tika/stargazers"><img src="https://img.shields.io/github/stars/apache/tika?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1048,7 +1048,7 @@ https://github.com/apache/tika <a href="https://github.com/apache/tika <a href="
 
 
 
-https://github.com/Unstructured-IO/unstructured <a href="https://github.com/Unstructured-IO/unstructured <a href="https://github.com/Unstructured-IO/unstructured/stargazers"><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white" alt="Stars"/></a>
+https://github.com/Unstructured-IO/unstructured <a href="https://github.com/Unstructured-IO/unstructured/stargazers"><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1076,7 +1076,7 @@ https://github.com/Unstructured-IO/unstructured <a href="https://github.com/Unst
 
 
 
-https://github.com/datalab-to/marker <a href="https://github.com/datalab-to/marker <a href="https://github.com/datalab-to/marker/stargazers"><img src="https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white" alt="Stars"/></a>
+https://github.com/datalab-to/marker <a href="https://github.com/datalab-to/marker/stargazers"><img src="https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1100,7 +1100,7 @@ https://github.com/datalab-to/marker <a href="https://github.com/datalab-to/mark
 
 
 
-https://github.com/opendatalab/MinerU <a href="https://github.com/opendatalab/MinerU <a href="https://github.com/opendatalab/MinerU/stargazers"><img src="https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white" alt="Stars"/></a>
+https://github.com/opendatalab/MinerU <a href="https://github.com/opendatalab/MinerU/stargazers"><img src="https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1126,7 +1126,7 @@ https://github.com/opendatalab/MinerU <a href="https://github.com/opendatalab/Mi
 
 
 
-https://github.com/PaddlePaddle/PaddleOCR <a href="https://github.com/PaddlePaddle/PaddleOCR <a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white" alt="Stars"/></a>
+https://github.com/PaddlePaddle/PaddleOCR <a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1176,29 +1176,18 @@ Quivr identifies Megaparse as its open-source document-ingestion component.
 
 
 
-| Project         | Primary Role           | Knowledge Base Use   |
-
-| --------------- | ---------------------- | -------------------- |
-
-| LangChain       | LLM orchestration      | RAG/agents           |
-
-| LlamaIndex      | Data/RAG framework     | Document knowledge   |
-
-| Haystack        | AI orchestration       | Enterprise RAG       |
-
-| DSPy            | LLM programming        | Optimized RAG        |
-
-| txtai           | Semantic AI            | Search/RAG           |
-
-| Semantic Kernel | AI orchestration       | Enterprise AI        |
-
-| AutoGen         | Multi-agent            | Research/knowledge   |
-
-| CrewAI          | Agent orchestration    | Knowledge agents     |
-
-| Guidance        | Structured LLM control | RAG pipelines        |
-
-| Marvin          | AI engineering         | Structured retrieval |
+| Project | Primary Role | Knowledge Base Use |
+| :--- | :--- | :--- |
+| **LangChain** | LLM orchestration | RAG/agents |
+| **LlamaIndex** | Data/RAG framework | Document knowledge |
+| **Haystack** | AI orchestration | Enterprise RAG |
+| **DSPy** | LLM programming | Optimized RAG |
+| **txtai** | Semantic AI | Search/RAG |
+| **Semantic Kernel** | AI orchestration | Enterprise AI |
+| **AutoGen** | Multi-agent | Research/knowledge |
+| **CrewAI** | Agent orchestration | Knowledge agents |
+| **Guidance** | Structured LLM control | RAG pipelines |
+| **Marvin** | AI engineering | Structured retrieval |
 
 
 
@@ -1214,7 +1203,7 @@ Quivr identifies Megaparse as its open-source document-ingestion component.
 
 
 
-https://github.com/qdrant/qdrant <a href="https://github.com/qdrant/qdrant <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="Stars"/></a>
+https://github.com/qdrant/qdrant <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1240,7 +1229,7 @@ https://github.com/qdrant/qdrant <a href="https://github.com/qdrant/qdrant <a hr
 
 
 
-https://github.com/milvus-io/milvus <a href="https://github.com/milvus-io/milvus <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="Stars"/></a>
+https://github.com/milvus-io/milvus <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1264,7 +1253,7 @@ https://github.com/milvus-io/milvus <a href="https://github.com/milvus-io/milvus
 
 
 
-https://github.com/weaviate/weaviate <a href="https://github.com/weaviate/weaviate <a href="https://github.com/weaviate/weaviate/stargazers"><img src="https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white" alt="Stars"/></a>
+https://github.com/weaviate/weaviate <a href="https://github.com/weaviate/weaviate/stargazers"><img src="https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1288,7 +1277,7 @@ https://github.com/weaviate/weaviate <a href="https://github.com/weaviate/weavia
 
 
 
-https://github.com/chroma-core/chroma <a href="https://github.com/chroma-core/chroma <a href="https://github.com/chroma-core/chroma/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="Stars"/></a>
+https://github.com/chroma-core/chroma <a href="https://github.com/chroma-core/chroma/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1312,7 +1301,7 @@ https://github.com/chroma-core/chroma <a href="https://github.com/chroma-core/ch
 
 
 
-https://github.com/pgvector/pgvector <a href="https://github.com/pgvector/pgvector <a href="https://github.com/pgvector/pgvector/stargazers"><img src="https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white" alt="Stars"/></a>
+https://github.com/pgvector/pgvector <a href="https://github.com/pgvector/pgvector/stargazers"><img src="https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1336,7 +1325,7 @@ https://github.com/pgvector/pgvector <a href="https://github.com/pgvector/pgvect
 
 
 
-https://github.com/lancedb/lancedb <a href="https://github.com/lancedb/lancedb <a href="https://github.com/lancedb/lancedb/stargazers"><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white" alt="Stars"/></a>
+https://github.com/lancedb/lancedb <a href="https://github.com/lancedb/lancedb/stargazers"><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1360,7 +1349,7 @@ https://github.com/lancedb/lancedb <a href="https://github.com/lancedb/lancedb <
 
 
 
-https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>
+https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1388,7 +1377,7 @@ https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/v
 
 
 
-https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>
+https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1442,7 +1431,7 @@ https://github.com/elastic/elasticsearch
 
 
 
-https://github.com/apache/solr <a href="https://github.com/apache/solr <a href="https://github.com/apache/solr/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>
+https://github.com/apache/solr <a href="https://github.com/apache/solr/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1470,7 +1459,7 @@ https://github.com/apache/solr <a href="https://github.com/apache/solr <a href="
 
 
 
-https://github.com/neo4j/neo4j <a href="https://github.com/neo4j/neo4j <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="Stars"/></a>
+https://github.com/neo4j/neo4j <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1494,7 +1483,7 @@ https://github.com/neo4j/neo4j <a href="https://github.com/neo4j/neo4j <a href="
 
 
 
-https://github.com/apache/jena <a href="https://github.com/apache/jena <a href="https://github.com/apache/jena/stargazers"><img src="https://img.shields.io/github/stars/apache/jena?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/apache/jena?style=social&color=white" alt="Stars"/></a>
+https://github.com/apache/jena <a href="https://github.com/apache/jena/stargazers"><img src="https://img.shields.io/github/stars/apache/jena?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1516,7 +1505,7 @@ https://github.com/apache/jena <a href="https://github.com/apache/jena <a href="
 
 
 
-https://github.com/JanusGraph/janusgraph <a href="https://github.com/JanusGraph/janusgraph <a href="https://github.com/JanusGraph/janusgraph/stargazers"><img src="https://img.shields.io/github/stars/JanusGraph/janusgraph?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/JanusGraph/janusgraph?style=social&color=white" alt="Stars"/></a>
+https://github.com/JanusGraph/janusgraph <a href="https://github.com/JanusGraph/janusgraph/stargazers"><img src="https://img.shields.io/github/stars/JanusGraph/janusgraph?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1536,7 +1525,7 @@ https://github.com/JanusGraph/janusgraph <a href="https://github.com/JanusGraph/
 
 
 
-https://github.com/memgraph/memgraph <a href="https://github.com/memgraph/memgraph <a href="https://github.com/memgraph/memgraph/stargazers"><img src="https://img.shields.io/github/stars/memgraph/memgraph?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/memgraph/memgraph?style=social&color=white" alt="Stars"/></a>
+https://github.com/memgraph/memgraph <a href="https://github.com/memgraph/memgraph/stargazers"><img src="https://img.shields.io/github/stars/memgraph/memgraph?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1558,7 +1547,7 @@ https://github.com/memgraph/memgraph <a href="https://github.com/memgraph/memgra
 
 
 
-https://github.com/microsoft/graphrag <a href="https://github.com/microsoft/graphrag <a href="https://github.com/microsoft/graphrag/stargazers"><img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white" alt="Stars"/></a>
+https://github.com/microsoft/graphrag <a href="https://github.com/microsoft/graphrag/stargazers"><img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1586,7 +1575,7 @@ https://github.com/microsoft/graphrag <a href="https://github.com/microsoft/grap
 
 
 
-https://github.com/ollama/ollama <a href="https://github.com/ollama/ollama <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Stars"/></a>
+https://github.com/ollama/ollama <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1608,7 +1597,7 @@ https://github.com/ollama/ollama <a href="https://github.com/ollama/ollama <a hr
 
 
 
-https://github.com/vllm-project/vllm <a href="https://github.com/vllm-project/vllm <a href="https://github.com/vllm-project/vllm/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white" alt="Stars"/></a>
+https://github.com/vllm-project/vllm <a href="https://github.com/vllm-project/vllm/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1628,7 +1617,7 @@ https://github.com/vllm-project/vllm <a href="https://github.com/vllm-project/vl
 
 
 
-https://github.com/ggml-org/llama.cpp <a href="https://github.com/ggml-org/llama.cpp <a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="Stars"/></a>
+https://github.com/ggml-org/llama.cpp <a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1650,7 +1639,7 @@ https://github.com/ggml-org/llama.cpp <a href="https://github.com/ggml-org/llama
 
 
 
-https://github.com/mudler/LocalAI <a href="https://github.com/mudler/LocalAI <a href="https://github.com/mudler/LocalAI/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white" alt="Stars"/></a>
+https://github.com/mudler/LocalAI <a href="https://github.com/mudler/LocalAI/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1926,7 +1915,7 @@ https://github.com/NangoHQ/nango
 
 
 
-https://github.com/explodinggradients/ragas <a href="https://github.com/explodinggradients/ragas <a href="https://github.com/explodinggradients/ragas/stargazers"><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="Stars"/></a>
+https://github.com/explodinggradients/ragas <a href="https://github.com/explodinggradients/ragas/stargazers"><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1948,7 +1937,7 @@ https://github.com/explodinggradients/ragas <a href="https://github.com/explodin
 
 
 
-https://github.com/confident-ai/deepeval <a href="https://github.com/confident-ai/deepeval <a href="https://github.com/confident-ai/deepeval/stargazers"><img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="Stars"/></a>
+https://github.com/confident-ai/deepeval <a href="https://github.com/confident-ai/deepeval/stargazers"><img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1970,7 +1959,7 @@ https://github.com/confident-ai/deepeval <a href="https://github.com/confident-a
 
 
 
-https://github.com/truera/trulens <a href="https://github.com/truera/trulens <a href="https://github.com/truera/trulens/stargazers"><img src="https://img.shields.io/github/stars/truera/trulens?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/truera/trulens?style=social&color=white" alt="Stars"/></a>
+https://github.com/truera/trulens <a href="https://github.com/truera/trulens/stargazers"><img src="https://img.shields.io/github/stars/truera/trulens?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -1990,7 +1979,7 @@ https://github.com/truera/trulens <a href="https://github.com/truera/trulens <a 
 
 
 
-https://github.com/Arize-ai/phoenix <a href="https://github.com/Arize-ai/phoenix <a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="Stars"/></a>
+https://github.com/Arize-ai/phoenix <a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -2012,7 +2001,7 @@ https://github.com/Arize-ai/phoenix <a href="https://github.com/Arize-ai/phoenix
 
 
 
-https://github.com/langfuse/langfuse <a href="https://github.com/langfuse/langfuse <a href="https://github.com/langfuse/langfuse/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Stars"/></a>
+https://github.com/langfuse/langfuse <a href="https://github.com/langfuse/langfuse/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -2193,69 +2182,37 @@ https://github.com/metabase/metabase
 
 
 | Project      | Category             | Relevance |
-
 | ------------ | -------------------- | --------- |
-
 | Onyx         | Enterprise AI Search | Very High |
-
 | DocsGPT      | AI Knowledge Base    | Very High |
-
 | AnythingLLM  | Private AI/RAG       | Very High |
-
 | Quivr        | RAG Knowledge Base   | Very High |
-
 | RAGFlow      | Deep RAG             | Very High |
-
 | Open WebUI   | AI/RAG UI            | Very High |
-
 | Khoj         | Personal Knowledge   | High      |
-
 | Dify         | AI/RAG Platform      | Very High |
-
 | FastGPT      | Knowledge Base       | High      |
-
 | MaxKB        | Knowledge Base       | High      |
-
 | Haystack     | RAG Framework        | Very High |
-
 | LlamaIndex   | RAG Framework        | Very High |
-
 | LangChain    | RAG/Agents           | Very High |
-
 | OpenSearch   | Search/RAG           | Very High |
-
 | Qdrant       | Vector DB            | Very High |
-
 | Milvus       | Vector DB            | Very High |
-
 | Weaviate     | Vector DB            | Very High |
-
 | pgvector     | Vector DB            | Very High |
-
 | Neo4j        | Knowledge Graph      | High      |
-
 | GraphRAG     | Graph RAG            | Very High |
-
 | Docling      | Document AI          | Very High |
-
 | Unstructured | Document ETL         | Very High |
-
 | Apache Tika  | Extraction           | High      |
-
 | MinerU       | Document AI          | High      |
-
 | PaddleOCR    | OCR                  | High      |
-
 | Airbyte      | Connectors           | High      |
-
 | Nango        | Integrations         | High      |
-
 | Ragas        | Evaluation           | Very High |
-
 | Langfuse     | Observability        | Very High |
-
 | Phoenix      | Observability        | High      |
-
 | n8n          | Automation           | High      |
 
 
@@ -2269,53 +2226,29 @@ https://github.com/metabase/metabase
 
 
 | Commercial Platform     | Open-Source Equivalent / Building Blocks             |
-
 | ----------------------- | ---------------------------------------------------- |
-
 | Danswer / Onyx          | Onyx + OpenSearch + Qdrant + LLM                     |
-
 | DocsGPT                 | DocsGPT + Qdrant/pgvector + Ollama                   |
-
 | Quivr                   | Quivr + Qdrant/pgvector + local LLM                  |
-
 | AnythingLLM             | AnythingLLM + Ollama + Qdrant                        |
-
 | Ragie                   | Haystack/LlamaIndex + Docling + Qdrant               |
-
 | Guru AI                 | Onyx + OpenSearch + PostgreSQL + connectors          |
-
 | Glean                   | Onyx + OpenSearch + GraphRAG + connectors            |
-
 | Hebbia                  | DocsGPT/RAGFlow + LlamaIndex + structured extraction |
-
 | Notion AI Q&A           | Open WebUI + Qdrant + PostgreSQL + LLM               |
-
 | Slite AI                | Outline/BookStack + Open WebUI + Qdrant + connectors |
-
 | Coveo                   | OpenSearch + Qdrant + reranking                      |
-
 | Azure AI Search         | OpenSearch + Qdrant + Haystack                       |
-
 | Google Vertex AI Search | OpenSearch + RAGFlow + LlamaIndex                    |
-
 | Amazon Kendra           | OpenSearch + Onyx + connector layer                  |
-
 | Enterprise AI Search    | Onyx + OpenSearch + GraphRAG                         |
-
 | Private Document Chat   | AnythingLLM + Ollama                                 |
-
 | Advanced RAG            | RAGFlow + Qdrant + reranker                          |
-
 | Agentic Knowledge Base  | Dify + LlamaIndex + Qdrant                           |
-
 | Knowledge Graph RAG     | GraphRAG + Neo4j + LlamaIndex                        |
-
 | Document Intelligence   | Docling + MinerU + PaddleOCR                         |
-
 | Enterprise Connectors   | Airbyte + Nango + custom connectors                  |
-
 | RAG Evaluation          | Ragas + DeepEval + Phoenix                           |
-
 | LLM Observability       | Langfuse + Phoenix                                   |
 
 
@@ -2329,37 +2262,21 @@ https://github.com/metabase/metabase
 
 
 | Capability                 | Onyx | DocsGPT | Quivr | AnythingLLM | RAGFlow | Open WebUI |  Haystack | LlamaIndex |
-
 | -------------------------- | ---: | ------: | ----: | ----------: | ------: | ---------: | --------: | ---------: |
-
 | Document RAG               |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Enterprise Search          |    ✓ |       ✓ |     ✓ |           — |       ✓ |          — |         ✓ |          ✓ |
-
 | Connectors                 |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Hybrid Search              |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Citations                  |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | AI Agents                  |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Multi-LLM                  |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Local LLM                  |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Knowledge Graph            |    ✓ |       — |     — |           — |       ✓ |          — |         ✓ |          ✓ |
-
 | Multi-user                 |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ | Framework |  Framework |
-
 | API                        |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Self-hosting               |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
-
 | Permission-aware retrieval |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |    Custom |     Custom |
-
 | Deep Research              |    ✓ |       ✓ |     — |           ✓ |       ✓ |          — |    Custom |     Custom |
-
 | MCP                        |    ✓ |       ✓ |     ✓ |           ✓ |       ✓ |          ✓ |         ✓ |          ✓ |
 
 
@@ -3787,39 +3704,22 @@ Recommended tools:
 
 
 | Layer                                 | Open-Source Maturity |
-
 | ------------------------------------- | -------------------- |
-
 | LLM inference                         | Very High            |
-
 | Embeddings                            | Very High            |
-
 | Vector DB                             | Very High            |
-
 | Full-text search                      | Very High            |
-
 | RAG frameworks                        | Very High            |
-
 | Document parsing                      | High                 |
-
 | OCR                                   | Very High            |
-
 | Knowledge graphs                      | High                 |
-
 | AI agents                             | High                 |
-
 | Workflow orchestration                | Very High            |
-
 | Observability                         | High                 |
-
 | Evaluation                            | High                 |
-
 | Enterprise connectors                 | Medium–High          |
-
 | Permission synchronization            | Medium–High          |
-
 | Enterprise knowledge governance       | Medium               |
-
 | Fully integrated Glean-style platform | Medium               |
 
 
@@ -4776,35 +4676,35 @@ Then open a pull request.
 
 * https://onyx.app/
 
-* https://github.com/onyx-dot-app/onyx <a href="https://github.com/onyx-dot-app/onyx <a href="https://github.com/onyx-dot-app/onyx/stargazers"><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white" alt="Stars"/></a>
+* https://github.com/onyx-dot-app/onyx <a href="https://github.com/onyx-dot-app/onyx/stargazers"><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white" alt="Stars"/></a>
 
 * https://docsgpt.cloud/
 
-* https://github.com/arc53/DocsGPT <a href="https://github.com/arc53/DocsGPT <a href="https://github.com/arc53/DocsGPT/stargazers"><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white" alt="Stars"/></a>
+* https://github.com/arc53/DocsGPT <a href="https://github.com/arc53/DocsGPT/stargazers"><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white" alt="Stars"/></a>
 
 * https://quivr.app/
 
-* https://github.com/QuivrHQ/quivr <a href="https://github.com/QuivrHQ/quivr <a href="https://github.com/QuivrHQ/quivr/stargazers"><img src="https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white" alt="Stars"/></a>
+* https://github.com/QuivrHQ/quivr <a href="https://github.com/QuivrHQ/quivr/stargazers"><img src="https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white" alt="Stars"/></a>
 
 * https://anythingllm.com/
 
-* https://github.com/Mintplex-Labs/anything-llm <a href="https://github.com/Mintplex-Labs/anything-llm <a href="https://github.com/Mintplex-Labs/anything-llm/stargazers"><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white" alt="Stars"/></a>
+* https://github.com/Mintplex-Labs/anything-llm <a href="https://github.com/Mintplex-Labs/anything-llm/stargazers"><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white" alt="Stars"/></a>
 
 * https://ragflow.io/
 
-* https://github.com/infiniflow/ragflow <a href="https://github.com/infiniflow/ragflow <a href="https://github.com/infiniflow/ragflow/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white" alt="Stars"/></a>
+* https://github.com/infiniflow/ragflow <a href="https://github.com/infiniflow/ragflow/stargazers"><img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white" alt="Stars"/></a>
 
 * https://openwebui.com/
 
-* https://github.com/open-webui/open-webui <a href="https://github.com/open-webui/open-webui <a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="Stars"/></a>
+* https://github.com/open-webui/open-webui <a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="Stars"/></a>
 
 * https://khoj.dev/
 
-* https://github.com/khoj-ai/khoj <a href="https://github.com/khoj-ai/khoj <a href="https://github.com/khoj-ai/khoj/stargazers"><img src="https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white" alt="Stars"/></a>
+* https://github.com/khoj-ai/khoj <a href="https://github.com/khoj-ai/khoj/stargazers"><img src="https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white" alt="Stars"/></a>
 
 * https://dify.ai/
 
-* https://github.com/langgenius/dify <a href="https://github.com/langgenius/dify <a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="Stars"/></a>
+* https://github.com/langgenius/dify <a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -4812,15 +4712,15 @@ Then open a pull request.
 
 
 
-* https://github.com/deepset-ai/haystack <a href="https://github.com/deepset-ai/haystack <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="Stars"/></a>
+* https://github.com/deepset-ai/haystack <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/run-llama/llama_index <a href="https://github.com/run-llama/llama_index <a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="Stars"/></a>
+* https://github.com/run-llama/llama_index <a href="https://github.com/run-llama/llama_index/stargazers"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/langchain-ai/langchain <a href="https://github.com/langchain-ai/langchain <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="Stars"/></a>
+* https://github.com/langchain-ai/langchain <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/stanfordnlp/dspy <a href="https://github.com/stanfordnlp/dspy <a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="Stars"/></a>
+* https://github.com/stanfordnlp/dspy <a href="https://github.com/stanfordnlp/dspy/stargazers"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/neuml/txtai <a href="https://github.com/neuml/txtai <a href="https://github.com/neuml/txtai/stargazers"><img src="https://img.shields.io/github/stars/neuml/txtai?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/neuml/txtai?style=social&color=white" alt="Stars"/></a>
+* https://github.com/neuml/txtai <a href="https://github.com/neuml/txtai/stargazers"><img src="https://img.shields.io/github/stars/neuml/txtai?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -4828,17 +4728,17 @@ Then open a pull request.
 
 
 
-* https://github.com/qdrant/qdrant <a href="https://github.com/qdrant/qdrant <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="Stars"/></a>
+* https://github.com/qdrant/qdrant <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/milvus-io/milvus <a href="https://github.com/milvus-io/milvus <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="Stars"/></a>
+* https://github.com/milvus-io/milvus <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/weaviate/weaviate <a href="https://github.com/weaviate/weaviate <a href="https://github.com/weaviate/weaviate/stargazers"><img src="https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white" alt="Stars"/></a>
+* https://github.com/weaviate/weaviate <a href="https://github.com/weaviate/weaviate/stargazers"><img src="https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/chroma-core/chroma <a href="https://github.com/chroma-core/chroma <a href="https://github.com/chroma-core/chroma/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="Stars"/></a>
+* https://github.com/chroma-core/chroma <a href="https://github.com/chroma-core/chroma/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/pgvector/pgvector <a href="https://github.com/pgvector/pgvector <a href="https://github.com/pgvector/pgvector/stargazers"><img src="https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white" alt="Stars"/></a>
+* https://github.com/pgvector/pgvector <a href="https://github.com/pgvector/pgvector/stargazers"><img src="https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/lancedb/lancedb <a href="https://github.com/lancedb/lancedb <a href="https://github.com/lancedb/lancedb/stargazers"><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white" alt="Stars"/></a>
+* https://github.com/lancedb/lancedb <a href="https://github.com/lancedb/lancedb/stargazers"><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -4846,15 +4746,15 @@ Then open a pull request.
 
 
 
-* https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>
+* https://github.com/opensearch-project/OpenSearch <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/apache/solr <a href="https://github.com/apache/solr <a href="https://github.com/apache/solr/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>
+* https://github.com/apache/solr <a href="https://github.com/apache/solr/stargazers"><img src="https://img.shields.io/github/stars/apache/solr?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>
+* https://github.com/vespa-engine/vespa <a href="https://github.com/vespa-engine/vespa/stargazers"><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/meilisearch/meilisearch <a href="https://github.com/meilisearch/meilisearch <a href="https://github.com/meilisearch/meilisearch/stargazers"><img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white" alt="Stars"/></a>
+* https://github.com/meilisearch/meilisearch <a href="https://github.com/meilisearch/meilisearch/stargazers"><img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/typesense/typesense <a href="https://github.com/typesense/typesense <a href="https://github.com/typesense/typesense/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=social&color=white" alt="Stars"/></a>
+* https://github.com/typesense/typesense <a href="https://github.com/typesense/typesense/stargazers"><img src="https://img.shields.io/github/stars/typesense/typesense?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -4862,17 +4762,17 @@ Then open a pull request.
 
 
 
-* https://github.com/docling-project/docling <a href="https://github.com/docling-project/docling <a href="https://github.com/docling-project/docling/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=social&color=white" alt="Stars"/></a>
+* https://github.com/docling-project/docling <a href="https://github.com/docling-project/docling/stargazers"><img src="https://img.shields.io/github/stars/docling-project/docling?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/Unstructured-IO/unstructured <a href="https://github.com/Unstructured-IO/unstructured <a href="https://github.com/Unstructured-IO/unstructured/stargazers"><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white" alt="Stars"/></a>
+* https://github.com/Unstructured-IO/unstructured <a href="https://github.com/Unstructured-IO/unstructured/stargazers"><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/apache/tika <a href="https://github.com/apache/tika <a href="https://github.com/apache/tika/stargazers"><img src="https://img.shields.io/github/stars/apache/tika?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/apache/tika?style=social&color=white" alt="Stars"/></a>
+* https://github.com/apache/tika <a href="https://github.com/apache/tika/stargazers"><img src="https://img.shields.io/github/stars/apache/tika?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/opendatalab/MinerU <a href="https://github.com/opendatalab/MinerU <a href="https://github.com/opendatalab/MinerU/stargazers"><img src="https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white" alt="Stars"/></a>
+* https://github.com/opendatalab/MinerU <a href="https://github.com/opendatalab/MinerU/stargazers"><img src="https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/PaddlePaddle/PaddleOCR <a href="https://github.com/PaddlePaddle/PaddleOCR <a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white" alt="Stars"/></a>
+* https://github.com/PaddlePaddle/PaddleOCR <a href="https://github.com/PaddlePaddle/PaddleOCR/stargazers"><img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/datalab-to/marker <a href="https://github.com/datalab-to/marker <a href="https://github.com/datalab-to/marker/stargazers"><img src="https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white" alt="Stars"/></a>
+* https://github.com/datalab-to/marker <a href="https://github.com/datalab-to/marker/stargazers"><img src="https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -4880,15 +4780,15 @@ Then open a pull request.
 
 
 
-* https://github.com/neo4j/neo4j <a href="https://github.com/neo4j/neo4j <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="Stars"/></a>
+* https://github.com/neo4j/neo4j <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/microsoft/graphrag <a href="https://github.com/microsoft/graphrag <a href="https://github.com/microsoft/graphrag/stargazers"><img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white" alt="Stars"/></a>
+* https://github.com/microsoft/graphrag <a href="https://github.com/microsoft/graphrag/stargazers"><img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/apache/jena <a href="https://github.com/apache/jena <a href="https://github.com/apache/jena/stargazers"><img src="https://img.shields.io/github/stars/apache/jena?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/apache/jena?style=social&color=white" alt="Stars"/></a>
+* https://github.com/apache/jena <a href="https://github.com/apache/jena/stargazers"><img src="https://img.shields.io/github/stars/apache/jena?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/JanusGraph/janusgraph <a href="https://github.com/JanusGraph/janusgraph <a href="https://github.com/JanusGraph/janusgraph/stargazers"><img src="https://img.shields.io/github/stars/JanusGraph/janusgraph?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/JanusGraph/janusgraph?style=social&color=white" alt="Stars"/></a>
+* https://github.com/JanusGraph/janusgraph <a href="https://github.com/JanusGraph/janusgraph/stargazers"><img src="https://img.shields.io/github/stars/JanusGraph/janusgraph?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/memgraph/memgraph <a href="https://github.com/memgraph/memgraph <a href="https://github.com/memgraph/memgraph/stargazers"><img src="https://img.shields.io/github/stars/memgraph/memgraph?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/memgraph/memgraph?style=social&color=white" alt="Stars"/></a>
+* https://github.com/memgraph/memgraph <a href="https://github.com/memgraph/memgraph/stargazers"><img src="https://img.shields.io/github/stars/memgraph/memgraph?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -4896,13 +4796,13 @@ Then open a pull request.
 
 
 
-* https://github.com/ollama/ollama <a href="https://github.com/ollama/ollama <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Stars"/></a>
+* https://github.com/ollama/ollama <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/vllm-project/vllm <a href="https://github.com/vllm-project/vllm <a href="https://github.com/vllm-project/vllm/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white" alt="Stars"/></a>
+* https://github.com/vllm-project/vllm <a href="https://github.com/vllm-project/vllm/stargazers"><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/ggml-org/llama.cpp <a href="https://github.com/ggml-org/llama.cpp <a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="Stars"/></a>
+* https://github.com/ggml-org/llama.cpp <a href="https://github.com/ggml-org/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/mudler/LocalAI <a href="https://github.com/mudler/LocalAI <a href="https://github.com/mudler/LocalAI/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white" alt="Stars"/></a>
+* https://github.com/mudler/LocalAI <a href="https://github.com/mudler/LocalAI/stargazers"><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white" alt="Stars"/></a>
 
 
 
@@ -4910,15 +4810,15 @@ Then open a pull request.
 
 
 
-* https://github.com/explodinggradients/ragas <a href="https://github.com/explodinggradients/ragas <a href="https://github.com/explodinggradients/ragas/stargazers"><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="Stars"/></a>
+* https://github.com/explodinggradients/ragas <a href="https://github.com/explodinggradients/ragas/stargazers"><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/confident-ai/deepeval <a href="https://github.com/confident-ai/deepeval <a href="https://github.com/confident-ai/deepeval/stargazers"><img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="Stars"/></a>
+* https://github.com/confident-ai/deepeval <a href="https://github.com/confident-ai/deepeval/stargazers"><img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/Arize-ai/phoenix <a href="https://github.com/Arize-ai/phoenix <a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="Stars"/></a>
+* https://github.com/Arize-ai/phoenix <a href="https://github.com/Arize-ai/phoenix/stargazers"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/langfuse/langfuse <a href="https://github.com/langfuse/langfuse <a href="https://github.com/langfuse/langfuse/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Stars"/></a>
+* https://github.com/langfuse/langfuse <a href="https://github.com/langfuse/langfuse/stargazers"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Stars"/></a>
 
-* https://github.com/truera/trulens <a href="https://github.com/truera/trulens <a href="https://github.com/truera/trulens/stargazers"><img src="https://img.shields.io/github/stars/truera/trulens?style=social&color=white" alt="Stars"/></a>/stargazers"><img src="https://img.shields.io/github/stars/truera/trulens?style=social&color=white" alt="Stars"/></a>
+* https://github.com/truera/trulens <a href="https://github.com/truera/trulens/stargazers"><img src="https://img.shields.io/github/stars/truera/trulens?style=social&color=white" alt="Stars"/></a>
 
 
 
